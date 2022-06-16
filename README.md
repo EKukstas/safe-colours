@@ -1,5 +1,7 @@
 # safe-colours
 A module providing a set of colourblind-safe colours and colourmaps.
+Colours come from Paul Tol's website: https://personal.sron.nl/~pault/
+Module was initially written by Jon Davies: https://github.com/j-davies-astro
 
 ***
 

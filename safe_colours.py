@@ -5,6 +5,8 @@ class safeColours:
     It can return either a dictionary of named colours, a list of a 
     chosen number of colours (1 to 12) with the largest contrast, or
     a colourmap to be used for colourbars and contour plots, etc.
+    Colours come from Paul Tol's website: https://personal.sron.nl/~pault/
+    Module was initially written by Jon Davies: https://github.com/j-davies-astro
     """
 
     # colour table in HTML hex format
